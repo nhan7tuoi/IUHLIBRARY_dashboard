@@ -1,10 +1,11 @@
-import SideBar from 'src/components/SideBar.jsx'; // Sử dụng alias src/
-import Content from 'src/components/Content.jsx';
-import Footer from 'src/components/Footer.jsx';
-import Header from 'src/components/Header.jsx';
-import Breadcrumb from 'src/components/Breadcrumb.jsx';
-import SidebarNav from 'src/components/SidebarNav.jsx';
-import Loading from 'src/components/Loading.jsx';
+import SideBar from './SideBar.jsx'; // Đảm bảo './' nếu file trong cùng thư mục
+import Content from './Content.jsx';
+import Footer from './Footer.jsx';
+import Header from './Header.jsx';
+import Breadcrumb from './Breadcrumb.jsx';
+import SidebarNav from './SidebarNav.jsx';
+import Loading from './Loading.jsx';
+
 
 export {
   SideBar,

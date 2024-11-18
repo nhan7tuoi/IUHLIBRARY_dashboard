@@ -1,5 +1,5 @@
 import React from 'react'
-import { Content, Footer, Header, SideBar } from '../components'
+import { Content, Footer, Header, SideBar } from 'src/components'
 import { notification } from 'antd';
 
 
