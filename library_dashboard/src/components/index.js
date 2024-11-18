@@ -1,17 +1,17 @@
-import SideBar from './SideBar.jsx';
-import Content from './Content.jsx';
-import Footer from './Footer.jsx';
-import Header from './Header.jsx';
-import Breadcrumb from './Breadcrumb.jsx';
-import SidebarNav from './SidebarNav.jsx';
-import Loading from './Loading.jsx';
+import SideBar from 'src/components/SideBar.jsx'; // Sử dụng alias src/
+import Content from 'src/components/Content.jsx';
+import Footer from 'src/components/Footer.jsx';
+import Header from 'src/components/Header.jsx';
+import Breadcrumb from 'src/components/Breadcrumb.jsx';
+import SidebarNav from 'src/components/SidebarNav.jsx';
+import Loading from 'src/components/Loading.jsx';
 
 export {
-    SideBar,
-    Content,
-    Footer,
-    Header,
-    Breadcrumb,
-    SidebarNav,
-    Loading
-}
+  SideBar,
+  Content,
+  Footer,
+  Header,
+  Breadcrumb,
+  SidebarNav,
+  Loading
+};
