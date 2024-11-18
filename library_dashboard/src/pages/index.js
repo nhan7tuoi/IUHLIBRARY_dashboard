@@ -1,10 +1,10 @@
-import Users from './user/Users';
-import Home from './home/Home';
-import Books from './book/Books';
-import Notifications from './notification/Notifications';
-import AddBook from './book/AddBook';
-import AddChapter from './book/AddChapter';
-import AddNotification from './notification/AddNotification';
+import Users from './user/Users.jsx';
+import Home from './home/Home.jsx';
+import Books from './book/Books.jsx';
+import Notifications from './notification/Notifications.jsx';
+import AddBook from './book/AddBook.jsx';
+import AddChapter from './book/AddChapter.jsx';
+import AddNotification from './notification/AddNotification.jsx';
 
 export {
     Users,

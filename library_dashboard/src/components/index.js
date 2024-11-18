@@ -1,10 +1,10 @@
-import SideBar from './SideBar';
-import Content from './Content';
-import Footer from './Footer';
-import Header from './Header';
-import Breadcrumb from './Breadcrumb';
-import SidebarNav from './SidebarNav';
-import Loading from './Loading';
+import SideBar from './SideBar.jsx';
+import Content from './Content.jsx';
+import Footer from './Footer.jsx';
+import Header from './Header.jsx';
+import Breadcrumb from './Breadcrumb.jsx';
+import SidebarNav from './SidebarNav.jsx';
+import Loading from './Loading.jsx';
 
 export {
     SideBar,
