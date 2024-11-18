@@ -9,11 +9,6 @@ export default defineConfig({
     build: {
       outDir: 'build',
     },
-    esbuild: {
-      loader: 'jsx',
-      include: /src\/.*\.jsx?$/,
-      exclude: [],
-    },
   plugins: [react()],
   resolve: {
     alias: [
